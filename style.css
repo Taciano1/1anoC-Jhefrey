@@ -1,3 +1,18 @@
+#pinguim {
+  width: 49%;
+  height: 200px;
+  border: 12px solid black;
+  padding: 10px;
+  margin: 50px;
+}
+#pinguimanimado {
+  width: 50%;
+  height: 200px;
+  border: 6px dotted black;
+  padding: 10px;
+  margin: 50px;
+}
+
 body {background-color: lightgray}
 h1 {color: green}
 b {color: red}
